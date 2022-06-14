@@ -1,0 +1,9 @@
+<network-security-config>
+	<domain-config cleartextTrafficPermitted="true">
+
+		<domain includeSubdomains="true">262535b6-544d-4d64-b381-6df9c7db6e31.mock.pstmn.io</domain>
+
+
+	</domain-config>
+</network-security-config>
+
